@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [30/Nov/2023:21:42:50 +0700] "GET / HTTP/1.1" 302 - http-bio-8080-exec-1 85
+0:0:0:0:0:0:0:1 - - [30/Nov/2023:21:42:51 +0700] "GET /login HTTP/1.1" 200 3025 http-bio-8080-exec-3 104
+0:0:0:0:0:0:0:1 - - [30/Nov/2023:21:42:51 +0700] "GET /webjars/bootstrap/3.3.6/css/bootstrap.min.css HTTP/1.1" 200 121260 http-bio-8080-exec-4 26
+0:0:0:0:0:0:0:1 - - [30/Nov/2023:21:42:51 +0700] "GET /webjars/jquery/1.9.1/jquery.min.js HTTP/1.1" 200 92629 http-bio-8080-exec-2 27
+0:0:0:0:0:0:0:1 - - [30/Nov/2023:21:42:51 +0700] "GET /favicon.ico HTTP/1.1" 404 58 http-bio-8080-exec-6 18
+0:0:0:0:0:0:0:1 - - [30/Nov/2023:21:42:53 +0700] "GET /newaccount HTTP/1.1" 200 3997 http-bio-8080-exec-7 45
